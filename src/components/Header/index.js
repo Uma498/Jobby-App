@@ -27,10 +27,6 @@ const Header = props => {
           </Link>
           <Link className="link" to="/jobs">
             <h1 className="nav-text">Jobs</h1>
-
-            <button type="button" className="home-jobs-btn">
-              Jobs
-            </button>
           </Link>
         </li>
         <li>
